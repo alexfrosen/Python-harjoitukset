@@ -1,2 +1,2 @@
 käyttäjä = input('Anna nimesi: ')
-print("Hauska tavata, " + käyttäjä )
+print("Hauska tavata, " + käyttäjä + "!" )
