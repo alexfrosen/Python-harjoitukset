@@ -14,4 +14,22 @@ Tein tehtävät 1..5
 
 Tein tehtävät 1..4
 
+## mod5
+
+tein kaikki tehtävät
+
+## mod6 
+
+tein kaikki tehtävät
+
+
+## mod 7 
+
+tein kaikki tehtwävät
+
+
+## mod8
+
+tein kaiki tehtävät
+
 
