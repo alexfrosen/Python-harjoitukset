@@ -28,7 +28,7 @@ class Talo:
         self.ylin = ylin
         self.hissit = []
 
-        for i in range(hissien_maara):
+        for _ in range(hissien_maara):
             hissi = Hissi(alin, ylin)
             self.hissit.append(hissi)
 
